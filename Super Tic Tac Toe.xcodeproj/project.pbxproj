@@ -7,6 +7,87 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B00DFAF18FAF1CD001DD3D2 /* AudioIconios6.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B00DFAE18FAF1CD001DD3D2 /* AudioIconios6.png */; };
+		0B0AC6BC1870A6CD00D3D249 /* Game2PViewControlleriPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B0AC6BB1870A6CD00D3D249 /* Game2PViewControlleriPhone.xib */; };
+		0B32F280180A20700015E5CD /* x2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F27F180A20700015E5CD /* x2.png */; };
+		0B32F2E4180B4CF50015E5CD /* MyParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2E2180B4CF50015E5CD /* MyParticle.sks */; };
+		0B32F2E5180B4CF50015E5CD /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2E3180B4CF50015E5CD /* spark.png */; };
+		0B32F2E9180B57950015E5CD /* Outline.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2E8180B57950015E5CD /* Outline.png */; };
+		0B32F2F5180B5C720015E5CD /* boardempty.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2EA180B5C720015E5CD /* boardempty.png */; };
+		0B32F2F6180B5C720015E5CD /* boardd.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2EB180B5C720015E5CD /* boardd.png */; };
+		0B32F2F7180B5C720015E5CD /* boarde.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2EC180B5C720015E5CD /* boarde.png */; };
+		0B32F2F8180B5C720015E5CD /* boardf.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2ED180B5C720015E5CD /* boardf.png */; };
+		0B32F2F9180B5C720015E5CD /* boardg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2EE180B5C720015E5CD /* boardg.png */; };
+		0B32F2FA180B5C720015E5CD /* boardh.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2EF180B5C720015E5CD /* boardh.png */; };
+		0B32F2FB180B5C720015E5CD /* boardi.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2F0180B5C720015E5CD /* boardi.png */; };
+		0B32F2FC180B5C720015E5CD /* boardfull.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2F1180B5C720015E5CD /* boardfull.png */; };
+		0B32F2FD180B5C720015E5CD /* boarda.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2F2180B5C720015E5CD /* boarda.png */; };
+		0B32F2FE180B5C720015E5CD /* boardb.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2F3180B5C720015E5CD /* boardb.png */; };
+		0B32F2FF180B5C720015E5CD /* boardc.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F2F4180B5C720015E5CD /* boardc.png */; };
+		0B32F307180B908B0015E5CD /* o.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F306180B908B0015E5CD /* o.png */; };
+		0B32F309180B90900015E5CD /* x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F308180B90900015E5CD /* x.png */; };
+		0B32F30B180C516F0015E5CD /* o2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B32F30A180C516F0015E5CD /* o2.png */; };
+		0B65C72B1885860300ACF7A9 /* Firework1.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0B65C7291885860300ACF7A9 /* Firework1.sks */; };
+		0B65C72C1885860300ACF7A9 /* bokeh.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B65C72A1885860300ACF7A9 /* bokeh.png */; };
+		0B65C72E188589B200ACF7A9 /* spark copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B65C72D188589B200ACF7A9 /* spark copy.png */; };
+		0B65C73618858B1400ACF7A9 /* Firework2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0B65C73518858B1400ACF7A9 /* Firework2.sks */; };
+		0B845CB8189D5AA900E8D53B /* Game2PViewControlleriPhoneTsm.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B845CB7189D5AA900E8D53B /* Game2PViewControlleriPhoneTsm.xib */; };
+		0B845CBA189D5BE700E8D53B /* Game2PViewControlleriPhonesm.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B845CB9189D5BE700E8D53B /* Game2PViewControlleriPhonesm.xib */; };
+		0B845CBC189D619400E8D53B /* Game1PViewControlleriPhoneHardsm.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B845CBB189D619400E8D53B /* Game1PViewControlleriPhoneHardsm.xib */; };
+		0B845CBE189D62A800E8D53B /* iPhoneMenusm.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B845CBD189D62A800E8D53B /* iPhoneMenusm.xib */; };
+		0B845CC018A09A5E00E8D53B /* help3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B845CBF18A09A5E00E8D53B /* help3.png */; };
+		0B845CC218A09A6400E8D53B /* help2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B845CC118A09A6400E8D53B /* help2.png */; };
+		0B845CC418A09A8D00E8D53B /* help1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B845CC318A09A8D00E8D53B /* help1.png */; };
+		0B845CC818A09AD600E8D53B /* HelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B845CC618A09AD600E8D53B /* HelpViewController.m */; };
+		0B845CC918A09AD600E8D53B /* HelpViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B845CC718A09AD600E8D53B /* HelpViewController.xib */; };
+		0B845CCB18A09B0900E8D53B /* HelpViewControlleriPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B845CCA18A09B0900E8D53B /* HelpViewControlleriPhone.xib */; };
+		0B845CCD18A09C0C00E8D53B /* arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B845CCC18A09C0C00E8D53B /* arrow.png */; };
+		0B845CCF18A09CA700E8D53B /* arrow2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B845CCE18A09CA700E8D53B /* arrow2.png */; };
+		0BA52A80187A0141004D0E2C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BA52A7F187A0141004D0E2C /* Default-568h@2x.png */; };
+		0BC4C1E118A1A0E1007D8999 /* HelpViewControlleriPhonesm.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BC4C1E018A1A0E1007D8999 /* HelpViewControlleriPhonesm.xib */; };
+		0BCC84EF1877434800BE924B /* Icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84E11877434800BE924B /* Icon-29.png */; };
+		0BCC84F01877434800BE924B /* Icon-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84E21877434800BE924B /* Icon-29@2x.png */; };
+		0BCC84F11877434800BE924B /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84E31877434800BE924B /* Icon-40.png */; };
+		0BCC84F21877434800BE924B /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84E41877434800BE924B /* Icon-40@2x.png */; };
+		0BCC84F31877434800BE924B /* Icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84E51877434800BE924B /* Icon-50.png */; };
+		0BCC84F41877434800BE924B /* Icon-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84E61877434800BE924B /* Icon-50@2x.png */; };
+		0BCC84F51877434800BE924B /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84E71877434800BE924B /* Icon-60.png */; };
+		0BCC84F61877434800BE924B /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84E81877434800BE924B /* Icon-60@2x.png */; };
+		0BCC84F71877434800BE924B /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84E91877434800BE924B /* Icon-72.png */; };
+		0BCC84F81877434800BE924B /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84EA1877434800BE924B /* Icon-72@2x.png */; };
+		0BCC84F91877434800BE924B /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84EB1877434800BE924B /* Icon-76.png */; };
+		0BCC84FA1877434800BE924B /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84EC1877434800BE924B /* Icon-76@2x.png */; };
+		0BCC84FB1877434800BE924B /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84ED1877434800BE924B /* Icon.png */; };
+		0BCC84FC1877434800BE924B /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BCC84EE1877434800BE924B /* Icon@2x.png */; };
+		0BDEB49D1843C28A001D630C /* Game2PViewControllerT.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BDEB49B1843C28A001D630C /* Game2PViewControllerT.m */; };
+		0BDEB49E1843C28A001D630C /* Game2PViewControllerT.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BDEB49C1843C28A001D630C /* Game2PViewControllerT.xib */; };
+		0BE693EC188B35F0008DD77F /* sides.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BE693EB188B35F0008DD77F /* sides.png */; };
+		0BE693EE188B4CB7008DD77F /* Game2PViewControlleriPhoneT.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BE693ED188B4CB7008DD77F /* Game2PViewControlleriPhoneT.xib */; };
+		0BE693F0188C3896008DD77F /* Game1PViewControlleriPhoneHard.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BE693EF188C3896008DD77F /* Game1PViewControlleriPhoneHard.xib */; };
+		0BE693F2188C9726008DD77F /* iPhoneMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BE693F1188C9726008DD77F /* iPhoneMenu.xib */; };
+		0BE693F4188DC903008DD77F /* TTTMenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BE693F3188DC903008DD77F /* TTTMenu.png */; };
+		0BE693F6188DCAB7008DD77F /* iPadMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BE693F5188DCAB7008DD77F /* iPadMenu.xib */; };
+		0BEA3984180CCA85005B1AF2 /* smallX.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA3983180CCA85005B1AF2 /* smallX.png */; };
+		0BEA3986180CCB27005B1AF2 /* MyParticle2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA3985180CCB27005B1AF2 /* MyParticle2.sks */; };
+		0BEA398A180CCBE6005B1AF2 /* smallO.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA3989180CCBE6005B1AF2 /* smallO.png */; };
+		0BEA398C180CCC7C005B1AF2 /* smallO2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA398B180CCC7C005B1AF2 /* smallO2.png */; };
+		0BEA398E180CD588005B1AF2 /* boardwood.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA398D180CD588005B1AF2 /* boardwood.png */; };
+		0BEA3990180CD871005B1AF2 /* scenery.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA398F180CD871005B1AF2 /* scenery.png */; };
+		0BEA3992180CDB55005B1AF2 /* falls.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA3991180CDB55005B1AF2 /* falls.png */; };
+		0BEA3994180CDBEE005B1AF2 /* MyParticle3.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA3993180CDBEE005B1AF2 /* MyParticle3.sks */; };
+		0BEA3997180CDD75005B1AF2 /* MyParticle5.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA3995180CDD75005B1AF2 /* MyParticle5.sks */; };
+		0BEA3998180CDD75005B1AF2 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA3996180CDD75005B1AF2 /* spark.png */; };
+		0BEA399C180D9C60005B1AF2 /* MyParticleFire.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA399B180D9C60005B1AF2 /* MyParticleFire.sks */; };
+		0BEA399E180D9DC1005B1AF2 /* Menu.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA399D180D9DC1005B1AF2 /* Menu.png */; };
+		0BEA39A0180D9EE6005B1AF2 /* MyParticleFire2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA399F180D9EE6005B1AF2 /* MyParticleFire2.sks */; };
+		0BEA39A2180DA0ED005B1AF2 /* torchCover.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA39A1180DA0ED005B1AF2 /* torchCover.png */; };
+		0BEA39A818142201005B1AF2 /* Game1PViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BEA39A618142201005B1AF2 /* Game1PViewController.m */; };
+		0BEA39A918142201005B1AF2 /* Game1PViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA39A718142201005B1AF2 /* Game1PViewController.xib */; };
+		0BEA39AB18160624005B1AF2 /* Storyboard1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA39AA18160624005B1AF2 /* Storyboard1.storyboard */; };
+		0BEA39AF181874C6005B1AF2 /* Game1PViewControllerHard.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BEA39AD181874C6005B1AF2 /* Game1PViewControllerHard.m */; };
+		0BEA39B0181874C6005B1AF2 /* Game1PViewControllerHard.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA39AE181874C6005B1AF2 /* Game1PViewControllerHard.xib */; };
+		0BF072A1180C7E4300506ED8 /* MyScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BF072A0180C7E4300506ED8 /* MyScene.m */; };
+		0BF072A6180C81EE00506ED8 /* iPad_Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BF072A4180C81EE00506ED8 /* iPad_Main.storyboard */; };
 		0BF1B20D1808B29D00E5B4B2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BF1B20C1808B29D00E5B4B2 /* Foundation.framework */; };
 		0BF1B20F1808B29D00E5B4B2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BF1B20E1808B29D00E5B4B2 /* CoreGraphics.framework */; };
 		0BF1B2111808B29D00E5B4B2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BF1B2101808B29D00E5B4B2 /* UIKit.framework */; };
@@ -14,7 +95,6 @@
 		0BF1B2191808B29D00E5B4B2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BF1B2181808B29D00E5B4B2 /* main.m */; };
 		0BF1B21D1808B29D00E5B4B2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BF1B21C1808B29D00E5B4B2 /* AppDelegate.m */; };
 		0BF1B2201808B29D00E5B4B2 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BF1B21E1808B29D00E5B4B2 /* Main_iPhone.storyboard */; };
-		0BF1B2231808B29D00E5B4B2 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BF1B2211808B29D00E5B4B2 /* Main_iPad.storyboard */; };
 		0BF1B2261808B29D00E5B4B2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BF1B2251808B29D00E5B4B2 /* ViewController.m */; };
 		0BF1B2281808B29D00E5B4B2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BF1B2271808B29D00E5B4B2 /* Images.xcassets */; };
 		0BF1B22F1808B29D00E5B4B2 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BF1B22E1808B29D00E5B4B2 /* XCTest.framework */; };
@@ -22,6 +102,9 @@
 		0BF1B2311808B29D00E5B4B2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BF1B2101808B29D00E5B4B2 /* UIKit.framework */; };
 		0BF1B2391808B29D00E5B4B2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0BF1B2371808B29D00E5B4B2 /* InfoPlist.strings */; };
 		0BF1B23B1808B29D00E5B4B2 /* Super_Tic_Tac_ToeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BF1B23A1808B29D00E5B4B2 /* Super_Tic_Tac_ToeTests.m */; };
+		0BF1B2451808B6CF00E5B4B2 /* Board.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BF1B2441808B6CF00E5B4B2 /* Board.png */; };
+		0BF1B2491808B79000E5B4B2 /* Game2PViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BF1B2471808B79000E5B4B2 /* Game2PViewController.m */; };
+		0BF1B24A1808B79000E5B4B2 /* Game2PViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BF1B2481808B79000E5B4B2 /* Game2PViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +118,92 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B00DFAE18FAF1CD001DD3D2 /* AudioIconios6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AudioIconios6.png; sourceTree = "<group>"; };
+		0B0AC6BB1870A6CD00D3D249 /* Game2PViewControlleriPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Game2PViewControlleriPhone.xib; sourceTree = "<group>"; };
+		0B32F27F180A20700015E5CD /* x2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x2.png; sourceTree = "<group>"; };
+		0B32F2E2180B4CF50015E5CD /* MyParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = MyParticle.sks; path = "Super Tic Tac Toe/MyParticle.sks"; sourceTree = "<group>"; };
+		0B32F2E3180B4CF50015E5CD /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spark.png; path = "Super Tic Tac Toe/spark.png"; sourceTree = "<group>"; };
+		0B32F2E8180B57950015E5CD /* Outline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Outline.png; sourceTree = "<group>"; };
+		0B32F2EA180B5C720015E5CD /* boardempty.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boardempty.png; sourceTree = "<group>"; };
+		0B32F2EB180B5C720015E5CD /* boardd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boardd.png; sourceTree = "<group>"; };
+		0B32F2EC180B5C720015E5CD /* boarde.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boarde.png; sourceTree = "<group>"; };
+		0B32F2ED180B5C720015E5CD /* boardf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boardf.png; sourceTree = "<group>"; };
+		0B32F2EE180B5C720015E5CD /* boardg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boardg.png; sourceTree = "<group>"; };
+		0B32F2EF180B5C720015E5CD /* boardh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boardh.png; sourceTree = "<group>"; };
+		0B32F2F0180B5C720015E5CD /* boardi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boardi.png; sourceTree = "<group>"; };
+		0B32F2F1180B5C720015E5CD /* boardfull.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boardfull.png; sourceTree = "<group>"; };
+		0B32F2F2180B5C720015E5CD /* boarda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boarda.png; sourceTree = "<group>"; };
+		0B32F2F3180B5C720015E5CD /* boardb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boardb.png; sourceTree = "<group>"; };
+		0B32F2F4180B5C720015E5CD /* boardc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boardc.png; sourceTree = "<group>"; };
+		0B32F306180B908B0015E5CD /* o.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = o.png; sourceTree = "<group>"; };
+		0B32F308180B90900015E5CD /* x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x.png; sourceTree = "<group>"; };
+		0B32F30A180C516F0015E5CD /* o2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = o2.png; sourceTree = "<group>"; };
+		0B65C7291885860300ACF7A9 /* Firework1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Firework1.sks; sourceTree = "<group>"; };
+		0B65C72A1885860300ACF7A9 /* bokeh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bokeh.png; sourceTree = "<group>"; };
+		0B65C72D188589B200ACF7A9 /* spark copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "spark copy.png"; path = "Super Tic Tac Toe/spark copy.png"; sourceTree = "<group>"; };
+		0B65C73518858B1400ACF7A9 /* Firework2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Firework2.sks; sourceTree = "<group>"; };
+		0B845CB7189D5AA900E8D53B /* Game2PViewControlleriPhoneTsm.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Game2PViewControlleriPhoneTsm.xib; sourceTree = "<group>"; };
+		0B845CB9189D5BE700E8D53B /* Game2PViewControlleriPhonesm.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Game2PViewControlleriPhonesm.xib; sourceTree = "<group>"; };
+		0B845CBB189D619400E8D53B /* Game1PViewControlleriPhoneHardsm.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Game1PViewControlleriPhoneHardsm.xib; sourceTree = "<group>"; };
+		0B845CBD189D62A800E8D53B /* iPhoneMenusm.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = iPhoneMenusm.xib; sourceTree = "<group>"; };
+		0B845CBF18A09A5E00E8D53B /* help3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = help3.png; path = "Super Tic Tac Toe/help3.png"; sourceTree = "<group>"; };
+		0B845CC118A09A6400E8D53B /* help2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = help2.png; path = "Super Tic Tac Toe/help2.png"; sourceTree = "<group>"; };
+		0B845CC318A09A8D00E8D53B /* help1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = help1.png; path = "Super Tic Tac Toe/help1.png"; sourceTree = "<group>"; };
+		0B845CC518A09AD600E8D53B /* HelpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelpViewController.h; sourceTree = "<group>"; };
+		0B845CC618A09AD600E8D53B /* HelpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelpViewController.m; sourceTree = "<group>"; };
+		0B845CC718A09AD600E8D53B /* HelpViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HelpViewController.xib; sourceTree = "<group>"; };
+		0B845CCA18A09B0900E8D53B /* HelpViewControlleriPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HelpViewControlleriPhone.xib; sourceTree = "<group>"; };
+		0B845CCC18A09C0C00E8D53B /* arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow.png; sourceTree = "<group>"; };
+		0B845CCE18A09CA700E8D53B /* arrow2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow2.png; sourceTree = "<group>"; };
+		0BA52A7F187A0141004D0E2C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		0BC4C1E018A1A0E1007D8999 /* HelpViewControlleriPhonesm.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HelpViewControlleriPhonesm.xib; sourceTree = "<group>"; };
+		0BCC84E11877434800BE924B /* Icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29.png"; sourceTree = "<group>"; };
+		0BCC84E21877434800BE924B /* Icon-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29@2x.png"; sourceTree = "<group>"; };
+		0BCC84E31877434800BE924B /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
+		0BCC84E41877434800BE924B /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		0BCC84E51877434800BE924B /* Icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-50.png"; sourceTree = "<group>"; };
+		0BCC84E61877434800BE924B /* Icon-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-50@2x.png"; sourceTree = "<group>"; };
+		0BCC84E71877434800BE924B /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60.png"; sourceTree = "<group>"; };
+		0BCC84E81877434800BE924B /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		0BCC84E91877434800BE924B /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		0BCC84EA1877434800BE924B /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
+		0BCC84EB1877434800BE924B /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		0BCC84EC1877434800BE924B /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		0BCC84ED1877434800BE924B /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		0BCC84EE1877434800BE924B /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		0BDEB49A1843C28A001D630C /* Game2PViewControllerT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game2PViewControllerT.h; sourceTree = "<group>"; };
+		0BDEB49B1843C28A001D630C /* Game2PViewControllerT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Game2PViewControllerT.m; sourceTree = "<group>"; };
+		0BDEB49C1843C28A001D630C /* Game2PViewControllerT.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Game2PViewControllerT.xib; sourceTree = "<group>"; };
+		0BE693EB188B35F0008DD77F /* sides.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sides.png; path = "Super Tic Tac Toe/sides.png"; sourceTree = "<group>"; };
+		0BE693ED188B4CB7008DD77F /* Game2PViewControlleriPhoneT.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Game2PViewControlleriPhoneT.xib; sourceTree = "<group>"; };
+		0BE693EF188C3896008DD77F /* Game1PViewControlleriPhoneHard.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Game1PViewControlleriPhoneHard.xib; sourceTree = "<group>"; };
+		0BE693F1188C9726008DD77F /* iPhoneMenu.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = iPhoneMenu.xib; sourceTree = "<group>"; };
+		0BE693F3188DC903008DD77F /* TTTMenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TTTMenu.png; sourceTree = "<group>"; };
+		0BE693F5188DCAB7008DD77F /* iPadMenu.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = iPadMenu.xib; sourceTree = "<group>"; };
+		0BEA3983180CCA85005B1AF2 /* smallX.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallX.png; sourceTree = "<group>"; };
+		0BEA3985180CCB27005B1AF2 /* MyParticle2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = MyParticle2.sks; path = "Super Tic Tac Toe/MyParticle2.sks"; sourceTree = "<group>"; };
+		0BEA3989180CCBE6005B1AF2 /* smallO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallO.png; sourceTree = "<group>"; };
+		0BEA398B180CCC7C005B1AF2 /* smallO2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallO2.png; sourceTree = "<group>"; };
+		0BEA398D180CD588005B1AF2 /* boardwood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boardwood.png; sourceTree = "<group>"; };
+		0BEA398F180CD871005B1AF2 /* scenery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scenery.png; sourceTree = "<group>"; };
+		0BEA3991180CDB55005B1AF2 /* falls.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = falls.png; sourceTree = "<group>"; };
+		0BEA3993180CDBEE005B1AF2 /* MyParticle3.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle3.sks; sourceTree = "<group>"; };
+		0BEA3995180CDD75005B1AF2 /* MyParticle5.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle5.sks; sourceTree = "<group>"; };
+		0BEA3996180CDD75005B1AF2 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		0BEA399B180D9C60005B1AF2 /* MyParticleFire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticleFire.sks; sourceTree = "<group>"; };
+		0BEA399D180D9DC1005B1AF2 /* Menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Menu.png; sourceTree = "<group>"; };
+		0BEA399F180D9EE6005B1AF2 /* MyParticleFire2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticleFire2.sks; sourceTree = "<group>"; };
+		0BEA39A1180DA0ED005B1AF2 /* torchCover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = torchCover.png; sourceTree = "<group>"; };
+		0BEA39A518142201005B1AF2 /* Game1PViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game1PViewController.h; sourceTree = "<group>"; };
+		0BEA39A618142201005B1AF2 /* Game1PViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Game1PViewController.m; sourceTree = "<group>"; };
+		0BEA39A718142201005B1AF2 /* Game1PViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Game1PViewController.xib; sourceTree = "<group>"; };
+		0BEA39AA18160624005B1AF2 /* Storyboard1.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard1.storyboard; sourceTree = "<group>"; };
+		0BEA39AC181874C6005B1AF2 /* Game1PViewControllerHard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game1PViewControllerHard.h; sourceTree = "<group>"; };
+		0BEA39AD181874C6005B1AF2 /* Game1PViewControllerHard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Game1PViewControllerHard.m; sourceTree = "<group>"; };
+		0BEA39AE181874C6005B1AF2 /* Game1PViewControllerHard.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Game1PViewControllerHard.xib; sourceTree = "<group>"; };
+		0BF0729F180C7E4300506ED8 /* MyScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyScene.h; sourceTree = "<group>"; };
+		0BF072A0180C7E4300506ED8 /* MyScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyScene.m; sourceTree = "<group>"; };
+		0BF072A5180C81EE00506ED8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/iPad_Main.storyboard; sourceTree = "<group>"; };
 		0BF1B2091808B29D00E5B4B2 /* Super Tic Tac Toe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Super Tic Tac Toe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BF1B20C1808B29D00E5B4B2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0BF1B20E1808B29D00E5B4B2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -46,7 +215,6 @@
 		0BF1B21B1808B29D00E5B4B2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0BF1B21C1808B29D00E5B4B2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		0BF1B21F1808B29D00E5B4B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
-		0BF1B2221808B29D00E5B4B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
 		0BF1B2241808B29D00E5B4B2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		0BF1B2251808B29D00E5B4B2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		0BF1B2271808B29D00E5B4B2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -55,6 +223,10 @@
 		0BF1B2361808B29D00E5B4B2 /* Super Tic Tac ToeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Super Tic Tac ToeTests-Info.plist"; sourceTree = "<group>"; };
 		0BF1B2381808B29D00E5B4B2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0BF1B23A1808B29D00E5B4B2 /* Super_Tic_Tac_ToeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Super_Tic_Tac_ToeTests.m; sourceTree = "<group>"; };
+		0BF1B2441808B6CF00E5B4B2 /* Board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Board.png; sourceTree = "<group>"; };
+		0BF1B2461808B79000E5B4B2 /* Game2PViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game2PViewController.h; sourceTree = "<group>"; };
+		0BF1B2471808B79000E5B4B2 /* Game2PViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Game2PViewController.m; sourceTree = "<group>"; };
+		0BF1B2481808B79000E5B4B2 /* Game2PViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Game2PViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +256,66 @@
 		0BF1B2001808B29D00E5B4B2 = {
 			isa = PBXGroup;
 			children = (
+				0B845CCC18A09C0C00E8D53B /* arrow.png */,
+				0B845CCE18A09CA700E8D53B /* arrow2.png */,
+				0BCC84E11877434800BE924B /* Icon-29.png */,
+				0BCC84E21877434800BE924B /* Icon-29@2x.png */,
+				0BCC84E31877434800BE924B /* Icon-40.png */,
+				0BCC84E41877434800BE924B /* Icon-40@2x.png */,
+				0BCC84E51877434800BE924B /* Icon-50.png */,
+				0BCC84E61877434800BE924B /* Icon-50@2x.png */,
+				0BCC84E71877434800BE924B /* Icon-60.png */,
+				0BCC84E81877434800BE924B /* Icon-60@2x.png */,
+				0BCC84E91877434800BE924B /* Icon-72.png */,
+				0BCC84EA1877434800BE924B /* Icon-72@2x.png */,
+				0BCC84EB1877434800BE924B /* Icon-76.png */,
+				0BCC84EC1877434800BE924B /* Icon-76@2x.png */,
+				0BCC84ED1877434800BE924B /* Icon.png */,
+				0BCC84EE1877434800BE924B /* Icon@2x.png */,
+				0BA52A7F187A0141004D0E2C /* Default-568h@2x.png */,
+				0BEA398D180CD588005B1AF2 /* boardwood.png */,
+				0BEA398F180CD871005B1AF2 /* scenery.png */,
+				0BEA398B180CCC7C005B1AF2 /* smallO2.png */,
+				0BEA3991180CDB55005B1AF2 /* falls.png */,
+				0BEA3989180CCBE6005B1AF2 /* smallO.png */,
+				0BEA3983180CCA85005B1AF2 /* smallX.png */,
+				0B32F30A180C516F0015E5CD /* o2.png */,
+				0B32F308180B90900015E5CD /* x.png */,
+				0B32F306180B908B0015E5CD /* o.png */,
+				0BE693F3188DC903008DD77F /* TTTMenu.png */,
+				0BEA399D180D9DC1005B1AF2 /* Menu.png */,
+				0B32F2EA180B5C720015E5CD /* boardempty.png */,
+				0B32F2EB180B5C720015E5CD /* boardd.png */,
+				0B32F2EC180B5C720015E5CD /* boarde.png */,
+				0B32F2ED180B5C720015E5CD /* boardf.png */,
+				0B32F2EE180B5C720015E5CD /* boardg.png */,
+				0B32F2EF180B5C720015E5CD /* boardh.png */,
+				0B32F2F0180B5C720015E5CD /* boardi.png */,
+				0B32F2F1180B5C720015E5CD /* boardfull.png */,
+				0B32F2F2180B5C720015E5CD /* boarda.png */,
+				0BEA39A1180DA0ED005B1AF2 /* torchCover.png */,
+				0B32F2F3180B5C720015E5CD /* boardb.png */,
+				0B32F2F4180B5C720015E5CD /* boardc.png */,
+				0B32F2E8180B57950015E5CD /* Outline.png */,
+				0B32F27F180A20700015E5CD /* x2.png */,
+				0BF1B2441808B6CF00E5B4B2 /* Board.png */,
+				0BEA399F180D9EE6005B1AF2 /* MyParticleFire2.sks */,
+				0BEA3993180CDBEE005B1AF2 /* MyParticle3.sks */,
+				0BEA399B180D9C60005B1AF2 /* MyParticleFire.sks */,
+				0BEA3985180CCB27005B1AF2 /* MyParticle2.sks */,
+				0BEA3995180CDD75005B1AF2 /* MyParticle5.sks */,
+				0BEA3996180CDD75005B1AF2 /* spark.png */,
+				0B32F2E2180B4CF50015E5CD /* MyParticle.sks */,
+				0B32F2E3180B4CF50015E5CD /* spark.png */,
+				0B65C72D188589B200ACF7A9 /* spark copy.png */,
+				0B65C7291885860300ACF7A9 /* Firework1.sks */,
+				0B65C73518858B1400ACF7A9 /* Firework2.sks */,
+				0B65C72A1885860300ACF7A9 /* bokeh.png */,
+				0BE693EB188B35F0008DD77F /* sides.png */,
+				0B845CC318A09A8D00E8D53B /* help1.png */,
+				0B845CC118A09A6400E8D53B /* help2.png */,
+				0B845CBF18A09A5E00E8D53B /* help3.png */,
+				0B00DFAE18FAF1CD001DD3D2 /* AudioIconios6.png */,
 				0BF1B2121808B29D00E5B4B2 /* Super Tic Tac Toe */,
 				0BF1B2341808B29D00E5B4B2 /* Super Tic Tac ToeTests */,
 				0BF1B20B1808B29D00E5B4B2 /* Frameworks */,
@@ -117,9 +349,38 @@
 				0BF1B21B1808B29D00E5B4B2 /* AppDelegate.h */,
 				0BF1B21C1808B29D00E5B4B2 /* AppDelegate.m */,
 				0BF1B21E1808B29D00E5B4B2 /* Main_iPhone.storyboard */,
-				0BF1B2211808B29D00E5B4B2 /* Main_iPad.storyboard */,
+				0BF072A4180C81EE00506ED8 /* iPad_Main.storyboard */,
+				0BEA39AA18160624005B1AF2 /* Storyboard1.storyboard */,
+				0BE693F5188DCAB7008DD77F /* iPadMenu.xib */,
+				0BE693F1188C9726008DD77F /* iPhoneMenu.xib */,
+				0B845CBD189D62A800E8D53B /* iPhoneMenusm.xib */,
+				0BF0729F180C7E4300506ED8 /* MyScene.h */,
+				0BF072A0180C7E4300506ED8 /* MyScene.m */,
 				0BF1B2241808B29D00E5B4B2 /* ViewController.h */,
 				0BF1B2251808B29D00E5B4B2 /* ViewController.m */,
+				0B845CC518A09AD600E8D53B /* HelpViewController.h */,
+				0B845CC618A09AD600E8D53B /* HelpViewController.m */,
+				0B845CC718A09AD600E8D53B /* HelpViewController.xib */,
+				0B845CCA18A09B0900E8D53B /* HelpViewControlleriPhone.xib */,
+				0BC4C1E018A1A0E1007D8999 /* HelpViewControlleriPhonesm.xib */,
+				0BEA39AC181874C6005B1AF2 /* Game1PViewControllerHard.h */,
+				0BEA39AD181874C6005B1AF2 /* Game1PViewControllerHard.m */,
+				0BEA39AE181874C6005B1AF2 /* Game1PViewControllerHard.xib */,
+				0BE693EF188C3896008DD77F /* Game1PViewControlleriPhoneHard.xib */,
+				0B845CBB189D619400E8D53B /* Game1PViewControlleriPhoneHardsm.xib */,
+				0BEA39A518142201005B1AF2 /* Game1PViewController.h */,
+				0BEA39A618142201005B1AF2 /* Game1PViewController.m */,
+				0BEA39A718142201005B1AF2 /* Game1PViewController.xib */,
+				0BF1B2461808B79000E5B4B2 /* Game2PViewController.h */,
+				0BF1B2471808B79000E5B4B2 /* Game2PViewController.m */,
+				0BF1B2481808B79000E5B4B2 /* Game2PViewController.xib */,
+				0B0AC6BB1870A6CD00D3D249 /* Game2PViewControlleriPhone.xib */,
+				0B845CB9189D5BE700E8D53B /* Game2PViewControlleriPhonesm.xib */,
+				0BDEB49A1843C28A001D630C /* Game2PViewControllerT.h */,
+				0BDEB49B1843C28A001D630C /* Game2PViewControllerT.m */,
+				0BDEB49C1843C28A001D630C /* Game2PViewControllerT.xib */,
+				0BE693ED188B4CB7008DD77F /* Game2PViewControlleriPhoneT.xib */,
+				0B845CB7189D5AA900E8D53B /* Game2PViewControlleriPhoneTsm.xib */,
 				0BF1B2271808B29D00E5B4B2 /* Images.xcassets */,
 				0BF1B2131808B29D00E5B4B2 /* Supporting Files */,
 			);
@@ -202,6 +463,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Alex White";
 				TargetAttributes = {
+					0BF1B2081808B29D00E5B4B2 = {
+						DevelopmentTeam = XTYJ26FND8;
+					};
 					0BF1B22C1808B29D00E5B4B2 = {
 						TestTargetID = 0BF1B2081808B29D00E5B4B2;
 					};
@@ -231,10 +495,87 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0BF1B2231808B29D00E5B4B2 /* Main_iPad.storyboard in Resources */,
+				0BEA399E180D9DC1005B1AF2 /* Menu.png in Resources */,
+				0BDEB49E1843C28A001D630C /* Game2PViewControllerT.xib in Resources */,
+				0BE693EE188B4CB7008DD77F /* Game2PViewControlleriPhoneT.xib in Resources */,
+				0B845CC918A09AD600E8D53B /* HelpViewController.xib in Resources */,
+				0B32F309180B90900015E5CD /* x.png in Resources */,
+				0B32F2F6180B5C720015E5CD /* boardd.png in Resources */,
+				0B32F30B180C516F0015E5CD /* o2.png in Resources */,
+				0B00DFAF18FAF1CD001DD3D2 /* AudioIconios6.png in Resources */,
+				0B65C72C1885860300ACF7A9 /* bokeh.png in Resources */,
+				0BEA39A2180DA0ED005B1AF2 /* torchCover.png in Resources */,
+				0B32F2F5180B5C720015E5CD /* boardempty.png in Resources */,
+				0BCC84EF1877434800BE924B /* Icon-29.png in Resources */,
+				0B32F2FC180B5C720015E5CD /* boardfull.png in Resources */,
+				0BCC84F71877434800BE924B /* Icon-72.png in Resources */,
+				0BF072A6180C81EE00506ED8 /* iPad_Main.storyboard in Resources */,
+				0BCC84F51877434800BE924B /* Icon-60.png in Resources */,
+				0BCC84FB1877434800BE924B /* Icon.png in Resources */,
+				0B65C72E188589B200ACF7A9 /* spark copy.png in Resources */,
+				0BE693F6188DCAB7008DD77F /* iPadMenu.xib in Resources */,
+				0B32F2E5180B4CF50015E5CD /* spark.png in Resources */,
+				0BEA398E180CD588005B1AF2 /* boardwood.png in Resources */,
+				0B32F2FE180B5C720015E5CD /* boardb.png in Resources */,
+				0BEA39B0181874C6005B1AF2 /* Game1PViewControllerHard.xib in Resources */,
+				0B845CCB18A09B0900E8D53B /* HelpViewControlleriPhone.xib in Resources */,
+				0BEA398C180CCC7C005B1AF2 /* smallO2.png in Resources */,
+				0BCC84F91877434800BE924B /* Icon-76.png in Resources */,
+				0BF1B2451808B6CF00E5B4B2 /* Board.png in Resources */,
+				0BC4C1E118A1A0E1007D8999 /* HelpViewControlleriPhonesm.xib in Resources */,
+				0BEA3984180CCA85005B1AF2 /* smallX.png in Resources */,
+				0B845CBE189D62A800E8D53B /* iPhoneMenusm.xib in Resources */,
+				0B32F2FA180B5C720015E5CD /* boardh.png in Resources */,
 				0BF1B2281808B29D00E5B4B2 /* Images.xcassets in Resources */,
+				0BEA398A180CCBE6005B1AF2 /* smallO.png in Resources */,
+				0B845CCD18A09C0C00E8D53B /* arrow.png in Resources */,
+				0BE693F2188C9726008DD77F /* iPhoneMenu.xib in Resources */,
+				0B32F2E9180B57950015E5CD /* Outline.png in Resources */,
+				0B32F2FB180B5C720015E5CD /* boardi.png in Resources */,
+				0BEA39A0180D9EE6005B1AF2 /* MyParticleFire2.sks in Resources */,
+				0BEA3990180CD871005B1AF2 /* scenery.png in Resources */,
+				0B32F2FD180B5C720015E5CD /* boarda.png in Resources */,
+				0B65C73618858B1400ACF7A9 /* Firework2.sks in Resources */,
+				0BCC84F61877434800BE924B /* Icon-60@2x.png in Resources */,
+				0B32F2F7180B5C720015E5CD /* boarde.png in Resources */,
+				0BCC84F21877434800BE924B /* Icon-40@2x.png in Resources */,
+				0B845CBC189D619400E8D53B /* Game1PViewControlleriPhoneHardsm.xib in Resources */,
+				0BEA39AB18160624005B1AF2 /* Storyboard1.storyboard in Resources */,
+				0B32F2FF180B5C720015E5CD /* boardc.png in Resources */,
+				0BE693EC188B35F0008DD77F /* sides.png in Resources */,
+				0BCC84FC1877434800BE924B /* Icon@2x.png in Resources */,
+				0BA52A80187A0141004D0E2C /* Default-568h@2x.png in Resources */,
+				0BE693F4188DC903008DD77F /* TTTMenu.png in Resources */,
+				0B845CC418A09A8D00E8D53B /* help1.png in Resources */,
+				0BCC84F01877434800BE924B /* Icon-29@2x.png in Resources */,
+				0BEA399C180D9C60005B1AF2 /* MyParticleFire.sks in Resources */,
+				0B32F2F8180B5C720015E5CD /* boardf.png in Resources */,
+				0B32F2F9180B5C720015E5CD /* boardg.png in Resources */,
+				0B32F307180B908B0015E5CD /* o.png in Resources */,
+				0B845CCF18A09CA700E8D53B /* arrow2.png in Resources */,
+				0BCC84FA1877434800BE924B /* Icon-76@2x.png in Resources */,
+				0BCC84F41877434800BE924B /* Icon-50@2x.png in Resources */,
+				0B0AC6BC1870A6CD00D3D249 /* Game2PViewControlleriPhone.xib in Resources */,
+				0BE693F0188C3896008DD77F /* Game1PViewControlleriPhoneHard.xib in Resources */,
+				0BCC84F11877434800BE924B /* Icon-40.png in Resources */,
+				0B845CB8189D5AA900E8D53B /* Game2PViewControlleriPhoneTsm.xib in Resources */,
+				0B845CC218A09A6400E8D53B /* help2.png in Resources */,
+				0B32F2E4180B4CF50015E5CD /* MyParticle.sks in Resources */,
+				0B845CBA189D5BE700E8D53B /* Game2PViewControlleriPhonesm.xib in Resources */,
+				0BEA3997180CDD75005B1AF2 /* MyParticle5.sks in Resources */,
+				0B65C72B1885860300ACF7A9 /* Firework1.sks in Resources */,
 				0BF1B2201808B29D00E5B4B2 /* Main_iPhone.storyboard in Resources */,
+				0BEA3986180CCB27005B1AF2 /* MyParticle2.sks in Resources */,
+				0B845CC018A09A5E00E8D53B /* help3.png in Resources */,
+				0BEA39A918142201005B1AF2 /* Game1PViewController.xib in Resources */,
+				0BCC84F31877434800BE924B /* Icon-50.png in Resources */,
+				0BEA3994180CDBEE005B1AF2 /* MyParticle3.sks in Resources */,
+				0BF1B24A1808B79000E5B4B2 /* Game2PViewController.xib in Resources */,
+				0BCC84F81877434800BE924B /* Icon-72@2x.png in Resources */,
 				0BF1B2171808B29D00E5B4B2 /* InfoPlist.strings in Resources */,
+				0BEA3992180CDB55005B1AF2 /* falls.png in Resources */,
+				0B32F280180A20700015E5CD /* x2.png in Resources */,
+				0BEA3998180CDD75005B1AF2 /* spark.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,9 +594,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BF1B2491808B79000E5B4B2 /* Game2PViewController.m in Sources */,
+				0BDEB49D1843C28A001D630C /* Game2PViewControllerT.m in Sources */,
+				0BF072A1180C7E4300506ED8 /* MyScene.m in Sources */,
 				0BF1B2261808B29D00E5B4B2 /* ViewController.m in Sources */,
 				0BF1B21D1808B29D00E5B4B2 /* AppDelegate.m in Sources */,
 				0BF1B2191808B29D00E5B4B2 /* main.m in Sources */,
+				0BEA39AF181874C6005B1AF2 /* Game1PViewControllerHard.m in Sources */,
+				0B845CC818A09AD600E8D53B /* HelpViewController.m in Sources */,
+				0BEA39A818142201005B1AF2 /* Game1PViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,6 +625,14 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		0BF072A4180C81EE00506ED8 /* iPad_Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0BF072A5180C81EE00506ED8 /* Base */,
+			);
+			name = iPad_Main.storyboard;
+			sourceTree = "<group>";
+		};
 		0BF1B2151808B29D00E5B4B2 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -292,14 +647,6 @@
 				0BF1B21F1808B29D00E5B4B2 /* Base */,
 			);
 			name = Main_iPhone.storyboard;
-			sourceTree = "<group>";
-		};
-		0BF1B2211808B29D00E5B4B2 /* Main_iPad.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				0BF1B2221808B29D00E5B4B2 /* Base */,
-			);
-			name = Main_iPad.storyboard;
 			sourceTree = "<group>";
 		};
 		0BF1B2371808B29D00E5B4B2 /* InfoPlist.strings */ = {
@@ -390,12 +737,14 @@
 		0BF1B23F1808B29D00E5B4B2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Michael White (54UPKYE64Z)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Michael White (54UPKYE64Z)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Super Tic Tac Toe/Super Tic Tac Toe-Prefix.pch";
 				INFOPLIST_FILE = "Super Tic Tac Toe/Super Tic Tac Toe-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "97706CB7-98F6-45ED-868D-4DAE86B0B1E6";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -403,12 +752,14 @@
 		0BF1B2401808B29D00E5B4B2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Michael White (54UPKYE64Z)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Michael White (54UPKYE64Z)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Super Tic Tac Toe/Super Tic Tac Toe-Prefix.pch";
 				INFOPLIST_FILE = "Super Tic Tac Toe/Super Tic Tac Toe-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "97706CB7-98F6-45ED-868D-4DAE86B0B1E6";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -474,6 +825,7 @@
 				0BF1B2401808B29D00E5B4B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0BF1B2411808B29D00E5B4B2 /* Build configuration list for PBXNativeTarget "Super Tic Tac ToeTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +834,7 @@
 				0BF1B2431808B29D00E5B4B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
